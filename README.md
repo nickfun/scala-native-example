@@ -6,7 +6,7 @@ We build a simple terminal app that takes input in `argv` of some strings and pr
 
 ## Requirements
 
-From (scala-native requirements docs)[https://scala-native.readthedocs.io/en/latest/user/setup.html#environment-setup]:
+From [scala-native requirements docs](https://scala-native.readthedocs.io/en/latest/user/setup.html#environment-setup):
 
 - Java 8 or newer
 - sbt 1.1.6 or newer
